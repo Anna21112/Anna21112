@@ -27,16 +27,13 @@
 - 🧠 **Linguagens mais usadas:**  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna21112&layout=compact&theme=radical)
 
-- ⏳ **Contribuições recentes:**  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anna21112&theme=dracula)
-
 ---
 
 ### ✨ Um pouco sobre mim
 
 Além de código, também curto muito...
 
-- 🎮 Jogos indie e retro  
+- 🎮 Jogos
 - 📚 Ler sobre ficção científica e IA  
 - 🎧 Escutar música enquanto programo  
 - 🧩 Resolver desafios lógicos e quebra-cabeças  
