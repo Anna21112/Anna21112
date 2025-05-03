@@ -21,9 +21,6 @@
 
 ### 🚀 Funcionalidades legais do meu GitHub
 
-- 📊 **GitHub Stats:** Veja meu progresso e atividade recente:  
-  ![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anna21112&show_icons=true&theme=radical)
-
 - 🧠 **Linguagens mais usadas:**  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna21112&layout=compact&theme=radical)
 
